@@ -1,0 +1,450 @@
+* {
+    font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+
+.black {
+	color: #000000 !important;
+    background-color: #FFFFFF !important;
+}
+
+body {
+    margin: 0px auto;
+    color: #000000 !important;
+    background-color: #FFFFFF !important;
+}
+
+.content_text {
+	font-weight:bold;
+	font-size:5em;
+	color:#f7f5ed;
+}
+
+#page_main {
+	background-color: #FFFFFF !important;
+	color: #000000 !important;
+}
+
+#page_room {
+	background-color: #FFFFFF !important;
+	color: #000000 !important;
+}
+
+#page_main #sector1 {
+	height: 50px;
+}
+
+#page_main #sector2 {
+	height: 200px;
+}
+
+#page_main #sector3 {
+	height: 70px;
+}
+
+#page_main #sector1_0 {
+	float: left;
+	width: 15px;
+	height: 50px;
+}
+
+#page_main #sector1_1 {
+	float: left;
+	width: 50px;
+	height: 50px;
+}
+
+#page_main #sector1_2 {
+	float: left;
+	width: 100px;
+	height: 50px;
+}
+
+#page_main #sector1_3 {
+	float: left;
+	width: 70px;
+	height: 50px;
+}
+
+#page_main #sector1_4 {
+	float: left;
+	width: 70px;
+	height: 50px;
+}
+
+#page_main #sector1_5 {
+	float: left;
+	width: 15px;
+	height: 50px;
+}
+
+#page_main #houseImg{
+	width: 30px;
+	height: 30px;
+	margin-top: 8px;
+	margin-left: 40px;
+}
+
+#page_main #channelConnector {
+	width: 70px;
+	height: 50px;
+	display: block;
+	margin-top: 7px;
+	margin-left: 10px;
+	font-size: 30px;
+}
+
+#page_main #humanImg {
+	width: 50px;
+	height: 50px;
+}
+
+#page_main #totalConnector {
+	display: block;
+	margin-top: 7px;
+	margin-left: 10px;
+	font-size: 30px;
+}
+
+#page_main #sector2_1 {
+	height: 50px;
+	width: 320px;
+}
+
+#page_main #sector2_2 {
+	height: 100px;
+	width: 320px;	
+}
+
+#page_main #sector2_3 {
+	height: 50px;
+	width: 320px;	
+}
+
+#page_main #sector2_2_0 {
+	float: left;
+	width: 15px;
+	height: 100px;
+}
+
+#page_main #sector2_2_1 {
+	float: left;
+	width:210px;
+	height: 100px;
+}
+
+#page_main #sector2_2_2 {
+	float: left;
+	width:80px;
+	height: 100px;
+}
+
+#page_main #sector2_2_3 {
+	float: left;
+	width:15px;
+	height: 100px;
+}
+
+#page_main #MHzUnit {
+	width: 80px;
+	height: 100px;
+	font-size: 40px;
+	margin-top: 45px;
+	position: fixed;
+}
+
+
+#page_main #sector2_2_1_1 {
+	float: left;
+	width: 60px;
+	height: 100px;
+}
+
+#page_main #sector2_2_1_2 {
+	float: left;
+	width: 60px;
+	height: 100px;
+}
+
+#page_main #sector2_2_1_3 {
+	float: left;
+	width: 30px;
+	height: 100px;
+}
+
+#page_main #sector2_2_1_4 {
+	float: left;
+	width: 60px;
+	height: 100px;
+}
+
+
+#page_main #firstNumber {
+	width: 60px;
+	height: 100px;
+	font-size: 90px;
+	margin-left: 5px;
+	position: fixed;
+}
+
+#page_main #secondNumber {
+	width: 60px;
+	height: 100px;
+	font-size: 90px;
+	margin-left: 5px;
+	position: fixed;
+}
+
+#page_main #dot {
+	width: 30px;
+	height: 100px;
+	font-size: 90px;
+	margin-left: 5px;
+	position: fixed;
+}
+
+#page_main #thirdNumber {
+	width: 60px;
+	height: 100px;
+	font-size: 90px;
+	margin-left: 5px;
+	position: fixed;
+}
+
+
+#page_main #sector2_1_1 {
+	float: left;
+	width: 15px;
+	height: 50px;
+}
+
+#page_main #sector2_1_2 {
+	float: left;
+	width: 60px;
+	height: 50px;
+}
+
+#page_main #sector2_1_3 {
+	float: left;
+	width: 60px;
+	height: 50px;
+}
+
+#page_main #sector2_1_4 {
+	float: left;
+	width: 30px;
+	height: 50px;
+}
+
+#page_main #sector2_1_5 {
+	float: left;
+	width: 60px;
+	height: 50px;
+}
+
+#page_main #sector2_1_6 {
+	float: left;
+	width: 95px;
+	height: 50px;
+}
+
+#page_main #firstNumberUpImg {
+	width: 45px;
+	height: 60px;
+	margin-left: 5px;
+}
+
+#page_main #secondNumberUpImg {
+	width: 45px;
+	height: 60px;
+	margin-left: 10px;
+}
+
+#page_main #thirdNumberUpImg {
+	width: 45px;
+	height: 60px;
+	margin-left: 10px;
+}
+
+
+
+#page_main #sector2_3_1 {
+	float: left;
+	width: 15px;
+	height: 50px;
+}
+
+#page_main #sector2_3_2 {
+	float: left;
+	width: 60px;
+	height: 50px;
+}
+
+#page_main #sector2_3_3 {
+	float: left;
+	width: 60px;
+	height: 50px;
+}
+
+#page_main #sector2_3_4 {
+	float: left;
+	width: 30px;
+	height: 50px;
+}
+
+#page_main #sector2_3_5 {
+	float: left;
+	width: 60px;
+	height: 50px;
+}
+
+#page_main #sector2_3_6 {
+	float: left;
+	width: 95px;
+	height: 50px;
+}
+
+
+
+#page_main #firstNumberDownImg {
+	width: 45px;
+	height: 60px;
+	margin-left: 5px;
+}
+
+#page_main #secondNumberDownImg {
+	width: 45px;
+	height: 60px;
+	margin-left: 10px;
+}
+
+#page_main #thirdNumberDownImg {
+	width: 45px;
+	height: 60px;
+	margin-left: 10px;
+}
+
+#page_main #sector3_1 {
+	float: left;
+	width: 15px;
+	height: 70px;
+}
+
+#page_main #sector3_2 {
+	float: left;
+	width: 290px;
+	height: 70px;
+}
+
+#page_main #sector3_3 {
+	float: left;
+	width: 15px;
+	height: 70px;
+}
+
+#page_main #connectChannel {
+	width: 290px;
+	height: 50px;
+	margin-top: 10px;
+	background-image: url("../Imgs/connectOn.png");
+	background-repeat: no-repeat;
+	background-size: 290px 50px;
+	background-position:center; 
+}
+
+#page_main #connectChannel:active {
+	background-image: url("../Imgs/connectOff.png");
+}
+
+/*===================================================================================*/
+
+
+#page_room #sector1 {
+	height: 50px;
+	width: 320px;	
+}
+
+#page_room #sector2 {
+	height: 270px;
+	width: 320px;
+}
+
+
+#page_room #sector1_0 {
+	float: left;
+	width: 15px;
+	height: 50px;
+}
+
+#page_room #sector1_1 {
+	float: left;
+	width: 50px;
+	height: 50px;
+}
+
+#page_room #sector1_2 {
+	float: left;
+	width: 100px;
+	height: 50px;
+}
+
+#page_room #sector1_3 {
+	float: left;
+	width: 70px;
+	height: 50px;
+}
+
+#page_room #sector1_4 {
+	float: left;
+	width: 70px;
+	height: 50px;
+}
+
+#page_room #sector1_5 {
+	float: left;
+	width: 15px;
+	height: 50px;
+}
+
+#page_room #hertzImg {
+	width: 45px;
+	height: 45px;
+	margin-top: 5px;
+}
+
+#page_room #hertz {
+	display: block;
+	margin-top: 7px;
+	margin-left: 10px;
+	font-size: 30px;
+}
+
+#page_room #houseImg {
+	width: 30px;
+	height: 30px;
+	margin-top: 8px;
+	margin-left: 40px;
+}
+
+#page_room #channelConnector {
+	width: 70px;
+	height: 50px;
+	display: block;
+	margin-top: 7px;	
+	margin-left: 10px;
+	font-size: 30px;
+}
+
+#page_room #recordVoice {
+	width: 320px;
+	height: 270px;
+	margin-top: 10px;
+	background-image: url("../Imgs/Mic.png");
+	background-repeat: no-repeat;
+	background-size: 200px 200px;
+	background-position:center; 
+}
+
+#page_room #recordVoice:active {
+	background-image: url("../Imgs/connectOff.png");
+}
